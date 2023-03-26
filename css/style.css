@@ -19,6 +19,7 @@ body {
   overflow: hidden; /* Hide anything that goes off the window size */
   background-color: #FEFDF9;
   font-family: monospace;
+  color: red;
 }
 
 div {
